@@ -1,6 +1,5 @@
 ## This uses rnoaa package.
-
-## 2022-09-30: need to clean up to show how clearly core Winslow, Berkeley, Quincy station data extracted.
+## But would still need to clean a la Mark's code.
 
 library(rnoaa)
 library(ggplot2)
